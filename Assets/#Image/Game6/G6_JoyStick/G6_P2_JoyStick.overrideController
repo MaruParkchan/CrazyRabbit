@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: G6_P2_JoyStick
+  m_Controller: {fileID: 9100000, guid: 9eb03296dcb1c3446803c1caced0b19c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3798cf9821636fc45a7726833d83af6a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7c4613931f70fc24b870b91fb826c29a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1d2d0cbad94791444a53d82dd24ef651, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1915f0b37f27a664c846d33e2b61f54b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e3cfade9aa9b9444cae09fabe9a0376d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a0aa4c252ea93cd4e91ad8b723b1492a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 359a17d3234dd2440928a1df852c5cea, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 941ac79aa5e282f42ab2692101e4001a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4d97b0943f9a0dc45bbf8c9aeb8f704f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a67271448631b924eaeec9b49c9d301f, type: 2}
